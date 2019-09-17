@@ -1,6 +1,5 @@
 .. image:: https://github.com/amezin/powerplay-table-editor/workflows/Python%20application/badge.svg
 
-
 PowerPlay table editor
 ======================
 
